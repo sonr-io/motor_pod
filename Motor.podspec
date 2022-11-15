@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Motor'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'The Sonr Motor.xcframework for iOS and macOS.'
   s.author           = { 'Prad Nukala' => 'prad@sonr.io' }
   s.source       = { :http => 'https://github.com/sonr-io/sonr/releases/latest/download/motor_universal.zip' }
